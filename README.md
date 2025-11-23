@@ -15,7 +15,7 @@ WayDora is a complete configuration set ("rice") for a fresh Fedora installation
 Ensure the following packages are installed on your Fedora system:
 
 ```bash
-sudo dnf install hyprland kitty fish waybar wofi dunst fontawesome-fonts-all
+sudo dnf install hyprland kitty fish waybar wofi dunst swaybg fontawesome-fonts-all
 ```
 
 *Note: You may need to enable RPM Fusion or Copr repositories for some packages depending on your Fedora version.*
